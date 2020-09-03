@@ -398,7 +398,7 @@ class ImagePopup(QLabel):
         self.move(position)
         
         # FramelessWindowHint may not work on some window managers on Linux
-        # so I had also foreced the flag X11BypassWindowManagerHint
+        # so I also foreed the flag X11BypassWindowManagerHint
         self.setWindowFlags(Qt.Popup | Qt.WindowStaysOnTopHint 
                             | Qt.FramelessWindowHint 
                             | Qt.X11BypassWindowManagerHint)
