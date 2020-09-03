@@ -23,7 +23,7 @@ Make sure you've followed the steps mentioned and have atleast 4 hours of data f
 
 ![alt text](https://github.com/Ayush-Ghosh/Demo-Manufacturing-Inspection-App/blob/master/screenshots/8.JPG)
 
-![alt text](https://github.com/Ayush-Ghosh/Demo-Manufacturing-Inspection-App/blob/master/screenshots/11.JPG)
+![alt text](https://github.com/Ayush-Ghosh/Demo-Manufacturing-Inspection-App/blob/master/screenshots/11.png)
 
 
 
