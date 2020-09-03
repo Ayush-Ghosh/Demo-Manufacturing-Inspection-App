@@ -14,3 +14,5 @@
 Make sure you've followed the steps mentioned and have atleast 4 hours of data for every 30 mins interval before you run main_ui.py file or else the barchart will have null plottings and might crash the application in any exceptional case.
 
 # SCREENSHOTS #
+
+![alt text](https://github.com/Ayush-Ghosh/Demo-Manufacturing-Inspection-App/blob/master/screenshots/1.JPG)
